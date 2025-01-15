@@ -153,6 +153,10 @@ div.card:not(:hover) {
 }
 
 .divbutton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
     overflow: hidden;
     padding: 20px 40px;
 
